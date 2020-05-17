@@ -1,0 +1,7 @@
+# スタンドアロン版 devtools
+1. インストール
+  npm install -g react-devtools
+2. 起動の仕方
+  react-devtools
+3. デバックするhtmlファイルのheadタグに以下を追加
+  <script src="http://localhost:8097"></script>
